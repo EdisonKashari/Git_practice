@@ -15,7 +15,8 @@ public class HelloJava {
 
     // Doing work 4 is done and ready
 
-    //Doing work 5 is done
+    //Doing work 5 is done and ready
 
+    //Doing work 6 is done and ready
 
 }
