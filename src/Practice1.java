@@ -1,9 +1,9 @@
 public class Practice1 {
 
-    //step1
+    //step1reagrrrrgaaaaaaaaaaaaaaaaaaaaaaaaaaaavxcdfgerrrrrrrrrrrrrrr
 
 
-    //step 2
+    //step 2sgrgeeeeeeeereaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaar
 
     // step 3
 
